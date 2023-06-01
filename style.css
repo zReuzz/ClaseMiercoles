@@ -1,0 +1,11 @@
+#imagen1 {
+  border: 1px dashed red;
+  margin: 10px;
+  padding: 25px;
+  border-radius: 50%;
+  background-color: rgba(17, 45, 233, 0.5);
+}
+
+.fondonegro {
+  background-color: black;
+}

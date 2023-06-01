@@ -1,12 +1,26 @@
 #imagen1 {
-  border: 1px dashed red;
+  border: 1px solid red;
   margin: 10px;
   padding: 25px;
   border-radius: 50%;
   background-color: rgba(17, 45, 233, 0.5);
   box-shadow: 5px 10px;
+  justify-content: center;
+  display: flex;
 }
 
 .fondonegro {
   background-color: black;
+}
+
+p {
+  font-family: "Monomaniac One", sans-serif;
+  font-size: 1em;
+  font-style: italic;
+  text-decoration: none;
+}
+
+img {
+  width: 350px;
+  height: 200px;
 }
